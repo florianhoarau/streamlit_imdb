@@ -3,4 +3,6 @@ pandas
 operator
 pprint
 requests
+unidecode
 streamlit_extras
+time
