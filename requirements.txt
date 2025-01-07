@@ -1,0 +1,7 @@
+streamlit
+pandas
+seaborn
+operator
+pprint
+requests
+streamlit_extras
