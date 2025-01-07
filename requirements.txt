@@ -1,6 +1,5 @@
 streamlit
 pandas
-seaborn
 operator
 pprint
 requests
